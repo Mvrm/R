@@ -1,2 +1,1 @@
-R
-= r scirpts
+R-Scripts
